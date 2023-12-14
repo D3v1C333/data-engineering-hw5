@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "Водитель",
+    "max_salary": 185754,
+    "min_salary": 185754,
+    "avg_salary": 185754.0
+  },
+  {
+    "_id": "Инженер",
+    "max_salary": 171808,
+    "min_salary": 171808,
+    "avg_salary": 171808.0
+  },
+  {
+    "_id": "Медсестра",
+    "max_salary": 131767,
+    "min_salary": 125386,
+    "avg_salary": 128576.5
+  },
+  {
+    "_id": "Продавец",
+    "max_salary": 114784,
+    "min_salary": 114784,
+    "avg_salary": 114784.0
+  },
+  {
+    "_id": "Менеджер",
+    "max_salary": 108738,
+    "min_salary": 46906,
+    "avg_salary": 77331.66666666667
+  },
+  {
+    "_id": "Врач",
+    "max_salary": 97450,
+    "min_salary": 48960,
+    "avg_salary": 73205.0
+  },
+  {
+    "_id": "Оператор call-центра",
+    "max_salary": 91344,
+    "min_salary": 91344,
+    "avg_salary": 91344.0
+  },
+  {
+    "_id": "Бухгалтер",
+    "max_salary": 49477,
+    "min_salary": 49477,
+    "avg_salary": 49477.0
+  }
+]
