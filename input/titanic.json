@@ -1,0 +1,2992 @@
+[
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Owen Harris Braund",
+    "Sex": "male",
+    "Age": 22,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.25
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Mrs. John Bradley (Florence Briggs Thayer) Cumings",
+    "Sex": "female",
+    "Age": 38,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 71.2833
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Laina Heikkinen",
+    "Sex": "female",
+    "Age": 26,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.925
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Mrs. Jacques Heath (Lily May Peel) Futrelle",
+    "Sex": "female",
+    "Age": 35,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 53.1
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. William Henry Allen",
+    "Sex": "male",
+    "Age": 35,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 8.05
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. James Moran",
+    "Sex": "male",
+    "Age": 27,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 8.4583
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. Timothy J McCarthy",
+    "Sex": "male",
+    "Age": 54,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 51.8625
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Master. Gosta Leonard Palsson",
+    "Sex": "male",
+    "Age": 2,
+    "Siblings/Spouses Aboard": 3,
+    "Parents/Children Aboard": 1,
+    "Fare": 21.075
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Mrs. Oscar W (Elisabeth Vilhelmina Berg) Johnson",
+    "Sex": "female",
+    "Age": 27,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 2,
+    "Fare": 11.1333
+  },
+  {
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Mrs. Nicholas (Adele Achem) Nasser",
+    "Sex": "female",
+    "Age": 14,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 30.0708
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Marguerite Rut Sandstrom",
+    "Sex": "female",
+    "Age": 4,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 1,
+    "Fare": 16.7
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Miss. Elizabeth Bonnell",
+    "Sex": "female",
+    "Age": 58,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 26.55
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. William Henry Saundercock",
+    "Sex": "male",
+    "Age": 20,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 8.05
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Anders Johan Andersson",
+    "Sex": "male",
+    "Age": 39,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 5,
+    "Fare": 31.275
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Miss. Hulda Amanda Adolfina Vestrom",
+    "Sex": "female",
+    "Age": 14,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.8542
+  },
+  {
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Mrs. (Mary D Kingcome) Hewlett",
+    "Sex": "female",
+    "Age": 55,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 16
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Master. Eugene Rice",
+    "Sex": "male",
+    "Age": 2,
+    "Siblings/Spouses Aboard": 4,
+    "Parents/Children Aboard": 1,
+    "Fare": 29.125
+  },
+  {
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Mr. Charles Eugene Williams",
+    "Sex": "male",
+    "Age": 23,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 13
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mrs. Julius (Emelia Maria Vandemoortele) Vander Planke",
+    "Sex": "female",
+    "Age": 31,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 18
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Mrs. Fatima Masselmani",
+    "Sex": "female",
+    "Age": 22,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.225
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. Joseph J Fynney",
+    "Sex": "male",
+    "Age": 35,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 26
+  },
+  {
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Mr. Lawrence Beesley",
+    "Sex": "male",
+    "Age": 34,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 13
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Anna McGowan",
+    "Sex": "female",
+    "Age": 15,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 8.0292
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Mr. William Thompson Sloper",
+    "Sex": "male",
+    "Age": 28,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 35.5
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Miss. Torborg Danira Palsson",
+    "Sex": "female",
+    "Age": 8,
+    "Siblings/Spouses Aboard": 3,
+    "Parents/Children Aboard": 1,
+    "Fare": 21.075
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Mrs. Carl Oscar (Selma Augusta Emilia Johansson) Asplund",
+    "Sex": "female",
+    "Age": 38,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 5,
+    "Fare": 31.3875
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Farred Chehab Emir",
+    "Sex": "male",
+    "Age": 26,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.225
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. Charles Alexander Fortune",
+    "Sex": "male",
+    "Age": 19,
+    "Siblings/Spouses Aboard": 3,
+    "Parents/Children Aboard": 2,
+    "Fare": 263
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Ellen O'Dwyer",
+    "Sex": "female",
+    "Age": 24,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.8792
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Lalio Todoroff",
+    "Sex": "male",
+    "Age": 23,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.8958
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Don. Manuel E Uruchurtu",
+    "Sex": "male",
+    "Age": 40,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 27.7208
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Mrs. William Augustus (Marie Eugenie) Spencer",
+    "Sex": "female",
+    "Age": 48,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 146.5208
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Mary Agatha Glynn",
+    "Sex": "female",
+    "Age": 18,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.75
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. Edward H Wheadon",
+    "Sex": "male",
+    "Age": 66,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 10.5
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. Edgar Joseph Meyer",
+    "Sex": "male",
+    "Age": 28,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 82.1708
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. Alexander Oskar Holverson",
+    "Sex": "male",
+    "Age": 42,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 52
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Mr. Hanna Mamee",
+    "Sex": "male",
+    "Age": 18,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.2292
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Ernest Charles Cann",
+    "Sex": "male",
+    "Age": 21,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 8.05
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Miss. Augusta Maria Vander Planke",
+    "Sex": "female",
+    "Age": 18,
+    "Siblings/Spouses Aboard": 2,
+    "Parents/Children Aboard": 0,
+    "Fare": 18
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Jamila Nicola-Yarred",
+    "Sex": "female",
+    "Age": 14,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 11.2417
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mrs. Johan (Johanna Persdotter Larsson) Ahlin",
+    "Sex": "female",
+    "Age": 40,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 9.475
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mrs. William John Robert (Dorothy Ann Wonnacott) Turpin",
+    "Sex": "female",
+    "Age": 27,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 21
+  },
+  {
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Miss. Simonne Marie Anne Andree Laroche",
+    "Sex": "female",
+    "Age": 3,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 2,
+    "Fare": 41.5792
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Margaret Delia Devaney",
+    "Sex": "female",
+    "Age": 19,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.8792
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. William John Rogers",
+    "Sex": "male",
+    "Age": 30,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 8.05
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Denis Lennon",
+    "Sex": "male",
+    "Age": 20,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 15.5
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Bridget O'Driscoll",
+    "Sex": "female",
+    "Age": 27,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.75
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Youssef Samaan",
+    "Sex": "male",
+    "Age": 16,
+    "Siblings/Spouses Aboard": 2,
+    "Parents/Children Aboard": 0,
+    "Fare": 21.6792
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mrs. Josef (Josefine Franchi) Arnold-Franchi",
+    "Sex": "female",
+    "Age": 18,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 17.8
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Master. Juha Niilo Panula",
+    "Sex": "male",
+    "Age": 7,
+    "Siblings/Spouses Aboard": 4,
+    "Parents/Children Aboard": 1,
+    "Fare": 39.6875
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Richard Cater Nosworthy",
+    "Sex": "male",
+    "Age": 21,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.8
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Mrs. Henry Sleeper (Myna Haxtun) Harper",
+    "Sex": "female",
+    "Age": 49,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 76.7292
+  },
+  {
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Mrs. Lizzie (Elizabeth Anne Wilkinson) Faunthorpe",
+    "Sex": "female",
+    "Age": 29,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 26
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. Engelhart Cornelius Ostby",
+    "Sex": "male",
+    "Age": 65,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 1,
+    "Fare": 61.9792
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Mr. Hugh Woolner",
+    "Sex": "male",
+    "Age": 46,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 35.5
+  },
+  {
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Miss. Emily Rugg",
+    "Sex": "female",
+    "Age": 21,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 10.5
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Mansouer Novel",
+    "Sex": "male",
+    "Age": 28.5,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.2292
+  },
+  {
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Miss. Constance Mirium West",
+    "Sex": "female",
+    "Age": 5,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 2,
+    "Fare": 27.75
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Master. William Frederick Goodwin",
+    "Sex": "male",
+    "Age": 11,
+    "Siblings/Spouses Aboard": 5,
+    "Parents/Children Aboard": 2,
+    "Fare": 46.9
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Orsen Sirayanian",
+    "Sex": "male",
+    "Age": 22,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.2292
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Miss. Amelie Icard",
+    "Sex": "female",
+    "Age": 38,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 80
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. Henry Birkhardt Harris",
+    "Sex": "male",
+    "Age": 45,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 83.475
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Master. Harald Skoog",
+    "Sex": "male",
+    "Age": 4,
+    "Siblings/Spouses Aboard": 3,
+    "Parents/Children Aboard": 2,
+    "Fare": 27.9
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. Albert A Stewart",
+    "Sex": "male",
+    "Age": 64,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 27.7208
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Master. Gerios Moubarek",
+    "Sex": "male",
+    "Age": 7,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 1,
+    "Fare": 15.2458
+  },
+  {
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Mrs. (Elizabeth Ramell) Nye",
+    "Sex": "female",
+    "Age": 29,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 10.5
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Ernest James Crease",
+    "Sex": "male",
+    "Age": 19,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 8.1583
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Erna Alexandra Andersson",
+    "Sex": "female",
+    "Age": 17,
+    "Siblings/Spouses Aboard": 4,
+    "Parents/Children Aboard": 2,
+    "Fare": 7.925
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Vincenz Kink",
+    "Sex": "male",
+    "Age": 26,
+    "Siblings/Spouses Aboard": 2,
+    "Parents/Children Aboard": 0,
+    "Fare": 8.6625
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. Stephen Curnow Jenkin",
+    "Sex": "male",
+    "Age": 32,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 10.5
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Miss. Lillian Amy Goodwin",
+    "Sex": "female",
+    "Age": 16,
+    "Siblings/Spouses Aboard": 5,
+    "Parents/Children Aboard": 2,
+    "Fare": 46.9
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. Ambrose Jr Hood",
+    "Sex": "male",
+    "Age": 21,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 73.5
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Apostolos Chronopoulos",
+    "Sex": "male",
+    "Age": 26,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 14.4542
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Mr. Lee Bing",
+    "Sex": "male",
+    "Age": 32,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 56.4958
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Sigurd Hansen Moen",
+    "Sex": "male",
+    "Age": 25,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.65
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Ivan Staneff",
+    "Sex": "male",
+    "Age": 23,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.8958
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Rahamin Haim Moutal",
+    "Sex": "male",
+    "Age": 28,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 8.05
+  },
+  {
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Master. Alden Gates Caldwell",
+    "Sex": "male",
+    "Age": 0.83,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 2,
+    "Fare": 29
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Elizabeth Dowdell",
+    "Sex": "female",
+    "Age": 30,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 12.475
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Achille Waelens",
+    "Sex": "male",
+    "Age": 22,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 9
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Mr. Jan Baptist Sheerlinck",
+    "Sex": "male",
+    "Age": 29,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 9.5
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Brigdet Delia McDermott",
+    "Sex": "female",
+    "Age": 31,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.7875
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. Francisco M Carrau",
+    "Sex": "male",
+    "Age": 28,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 47.1
+  },
+  {
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Miss. Bertha Ilett",
+    "Sex": "female",
+    "Age": 17,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 10.5
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Mrs. Karl Alfred (Maria Mathilda Gustafsson) Backstrom",
+    "Sex": "female",
+    "Age": 33,
+    "Siblings/Spouses Aboard": 3,
+    "Parents/Children Aboard": 0,
+    "Fare": 15.85
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. William Neal Ford",
+    "Sex": "male",
+    "Age": 16,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 3,
+    "Fare": 34.375
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Selman Francis Slocovski",
+    "Sex": "male",
+    "Age": 20,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 8.05
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Miss. Mabel Helen Fortune",
+    "Sex": "female",
+    "Age": 23,
+    "Siblings/Spouses Aboard": 3,
+    "Parents/Children Aboard": 2,
+    "Fare": 263
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Francesco Celotti",
+    "Sex": "male",
+    "Age": 24,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 8.05
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Emil Christmann",
+    "Sex": "male",
+    "Age": 29,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 8.05
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Paul Edvin Andreasson",
+    "Sex": "male",
+    "Age": 20,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.8542
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. Herbert Fuller Chaffee",
+    "Sex": "male",
+    "Age": 46,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 61.175
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Bertram Frank Dean",
+    "Sex": "male",
+    "Age": 26,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 2,
+    "Fare": 20.575
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Daniel Coxon",
+    "Sex": "male",
+    "Age": 59,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.25
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Charles Joseph Shorney",
+    "Sex": "male",
+    "Age": 22,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 8.05
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. George B Goldschmidt",
+    "Sex": "male",
+    "Age": 71,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 34.6542
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Mr. William Bertram Greenfield",
+    "Sex": "male",
+    "Age": 23,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 1,
+    "Fare": 63.3583
+  },
+  {
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Mrs. John T (Ada Julia Bone) Doling",
+    "Sex": "female",
+    "Age": 34,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 1,
+    "Fare": 23
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. Sinai Kantor",
+    "Sex": "male",
+    "Age": 34,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 26
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Miss. Matilda Petranec",
+    "Sex": "female",
+    "Age": 28,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.8958
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Pastcho Petroff",
+    "Sex": "male",
+    "Age": 29,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.8958
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. Richard Frasar White",
+    "Sex": "male",
+    "Age": 21,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 1,
+    "Fare": 77.2875
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Gustaf Joel Johansson",
+    "Sex": "male",
+    "Age": 33,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 8.6542
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Anders Vilhelm Gustafsson",
+    "Sex": "male",
+    "Age": 37,
+    "Siblings/Spouses Aboard": 2,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.925
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Stoytcho Mionoff",
+    "Sex": "male",
+    "Age": 28,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.8958
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Anna Kristine Salkjelsvik",
+    "Sex": "female",
+    "Age": 21,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.65
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Mr. Albert Johan Moss",
+    "Sex": "male",
+    "Age": 29,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.775
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Tido Rekic",
+    "Sex": "male",
+    "Age": 38,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.8958
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Bertha Moran",
+    "Sex": "female",
+    "Age": 28,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 24.15
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. Walter Chamberlain Porter",
+    "Sex": "male",
+    "Age": 47,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 52
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Miss. Hileni Zabour",
+    "Sex": "female",
+    "Age": 14.5,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 14.4542
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. David John Barton",
+    "Sex": "male",
+    "Age": 22,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 8.05
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Miss. Katriina Jussila",
+    "Sex": "female",
+    "Age": 20,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 9.825
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Miss. Malake Attalah",
+    "Sex": "female",
+    "Age": 17,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 14.4583
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Edvard Pekoniemi",
+    "Sex": "male",
+    "Age": 21,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.925
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Patrick Connors",
+    "Sex": "male",
+    "Age": 70.5,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.75
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. William John Robert Turpin",
+    "Sex": "male",
+    "Age": 29,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 21
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. Quigg Edmond Baxter",
+    "Sex": "male",
+    "Age": 24,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 1,
+    "Fare": 247.5208
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Miss. Ellis Anna Maria Andersson",
+    "Sex": "female",
+    "Age": 2,
+    "Siblings/Spouses Aboard": 4,
+    "Parents/Children Aboard": 2,
+    "Fare": 31.275
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. Stanley George Hickman",
+    "Sex": "male",
+    "Age": 21,
+    "Siblings/Spouses Aboard": 2,
+    "Parents/Children Aboard": 0,
+    "Fare": 73.5
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Leonard Charles Moore",
+    "Sex": "male",
+    "Age": 19,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 8.05
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. Nicholas Nasser",
+    "Sex": "male",
+    "Age": 32.5,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 30.0708
+  },
+  {
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Miss. Susan Webber",
+    "Sex": "female",
+    "Age": 32.5,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 13
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. Percival Wayland White",
+    "Sex": "male",
+    "Age": 54,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 1,
+    "Fare": 77.2875
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Master. Elias Nicola-Yarred",
+    "Sex": "male",
+    "Age": 12,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 11.2417
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Martin McMahon",
+    "Sex": "male",
+    "Age": 19,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.75
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Mr. Fridtjof Arne Madsen",
+    "Sex": "male",
+    "Age": 24,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.1417
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Anna Peter",
+    "Sex": "female",
+    "Age": 2,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 1,
+    "Fare": 22.3583
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Johan Ekstrom",
+    "Sex": "male",
+    "Age": 45,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 6.975
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Jozef Drazenoic",
+    "Sex": "male",
+    "Age": 33,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.8958
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Domingos Fernandeo Coelho",
+    "Sex": "male",
+    "Age": 20,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.05
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mrs. Alexander A (Grace Charity Laury) Robins",
+    "Sex": "female",
+    "Age": 47,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 14.5
+  },
+  {
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Mrs. Leopold (Mathilde Francoise Pede) Weisz",
+    "Sex": "female",
+    "Age": 29,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 26
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. Samuel James Hayden Sobey",
+    "Sex": "male",
+    "Age": 25,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 13
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. Emile Richard",
+    "Sex": "male",
+    "Age": 23,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 15.0458
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Miss. Helen Monypeny Newsom",
+    "Sex": "female",
+    "Age": 19,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 2,
+    "Fare": 26.2833
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. Jacques Heath Futrelle",
+    "Sex": "male",
+    "Age": 37,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 53.1
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Olaf Elon Osen",
+    "Sex": "male",
+    "Age": 16,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 9.2167
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. Victor Giglio",
+    "Sex": "male",
+    "Age": 24,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 79.2
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mrs. Joseph (Sultana) Boulos",
+    "Sex": "female",
+    "Age": 40,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 2,
+    "Fare": 15.2458
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Anna Sofia Nysten",
+    "Sex": "female",
+    "Age": 22,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.75
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Mrs. Pekka Pietari (Elin Matilda Dolck) Hakkarainen",
+    "Sex": "female",
+    "Age": 24,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 15.85
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Jeremiah Burke",
+    "Sex": "male",
+    "Age": 19,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 6.75
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. Edgardo Samuel Andrew",
+    "Sex": "male",
+    "Age": 18,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 11.5
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. Joseph Charles Nicholls",
+    "Sex": "male",
+    "Age": 19,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 1,
+    "Fare": 36.75
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Mr. August Edvard Andersson",
+    "Sex": "male",
+    "Age": 27,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.7958
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Miss. Robina Maggie Ford",
+    "Sex": "female",
+    "Age": 9,
+    "Siblings/Spouses Aboard": 2,
+    "Parents/Children Aboard": 2,
+    "Fare": 34.375
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. Michel Navratil",
+    "Sex": "male",
+    "Age": 36.5,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 2,
+    "Fare": 26
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Rev. Thomas Roussel Davids Byles",
+    "Sex": "male",
+    "Age": 42,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 13
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Rev. Robert James Bateman",
+    "Sex": "male",
+    "Age": 51,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 12.525
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Mrs. Thomas (Edith Wearne) Pears",
+    "Sex": "female",
+    "Age": 22,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 66.6
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Alfonzo Meo",
+    "Sex": "male",
+    "Age": 55.5,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 8.05
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Austin Blyler van Billiard",
+    "Sex": "male",
+    "Age": 40.5,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 2,
+    "Fare": 14.5
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Ole Martin Olsen",
+    "Sex": "male",
+    "Age": 27,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.3125
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. Charles Duane Williams",
+    "Sex": "male",
+    "Age": 51,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 1,
+    "Fare": 61.3792
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Katherine Gilnagh",
+    "Sex": "female",
+    "Age": 16,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.7333
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Harry Corn",
+    "Sex": "male",
+    "Age": 30,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 8.05
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Mile Smiljanic",
+    "Sex": "male",
+    "Age": 37,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 8.6625
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Master. Thomas Henry Sage",
+    "Sex": "male",
+    "Age": 5,
+    "Siblings/Spouses Aboard": 8,
+    "Parents/Children Aboard": 2,
+    "Fare": 69.55
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. John Hatfield Cribb",
+    "Sex": "male",
+    "Age": 44,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 1,
+    "Fare": 16.1
+  },
+  {
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Mrs. James (Elizabeth Inglis Milne) Watt",
+    "Sex": "female",
+    "Age": 40,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 15.75
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. John Viktor Bengtsson",
+    "Sex": "male",
+    "Age": 26,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.775
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Jovo Calic",
+    "Sex": "male",
+    "Age": 17,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 8.6625
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Master. Eino Viljami Panula",
+    "Sex": "male",
+    "Age": 1,
+    "Siblings/Spouses Aboard": 4,
+    "Parents/Children Aboard": 1,
+    "Fare": 39.6875
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Master. Frank John William Goldsmith",
+    "Sex": "male",
+    "Age": 9,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 2,
+    "Fare": 20.525
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Mrs. (Edith Martha Bowerman) Chibnall",
+    "Sex": "female",
+    "Age": 48,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 1,
+    "Fare": 55
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mrs. William (Anna Bernhardina Karlsson) Skoog",
+    "Sex": "female",
+    "Age": 45,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 4,
+    "Fare": 27.9
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. John D Baumann",
+    "Sex": "male",
+    "Age": 60,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 25.925
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Lee Ling",
+    "Sex": "male",
+    "Age": 28,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 56.4958
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. Wyckoff Van der hoef",
+    "Sex": "male",
+    "Age": 61,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 33.5
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Master. Arthur Rice",
+    "Sex": "male",
+    "Age": 4,
+    "Siblings/Spouses Aboard": 4,
+    "Parents/Children Aboard": 1,
+    "Fare": 29.125
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Eleanor Ileen Johnson",
+    "Sex": "female",
+    "Age": 1,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 1,
+    "Fare": 11.1333
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Antti Wilhelm Sivola",
+    "Sex": "male",
+    "Age": 21,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.925
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. James Clinch Smith",
+    "Sex": "male",
+    "Age": 56,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 30.6958
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Klas Albin Klasen",
+    "Sex": "male",
+    "Age": 18,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 1,
+    "Fare": 7.8542
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Master. Henry Forbes Lefebre",
+    "Sex": "male",
+    "Age": 5,
+    "Siblings/Spouses Aboard": 3,
+    "Parents/Children Aboard": 1,
+    "Fare": 25.4667
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Miss. Ann Elizabeth Isham",
+    "Sex": "female",
+    "Age": 50,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 28.7125
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. Reginald Hale",
+    "Sex": "male",
+    "Age": 30,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 13
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Lionel Leonard",
+    "Sex": "male",
+    "Age": 36,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 0
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Miss. Constance Gladys Sage",
+    "Sex": "female",
+    "Age": 8,
+    "Siblings/Spouses Aboard": 8,
+    "Parents/Children Aboard": 2,
+    "Fare": 69.55
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. Rene Pernot",
+    "Sex": "male",
+    "Age": 39,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 15.05
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Master. Clarence Gustaf Hugo Asplund",
+    "Sex": "male",
+    "Age": 9,
+    "Siblings/Spouses Aboard": 4,
+    "Parents/Children Aboard": 2,
+    "Fare": 31.3875
+  },
+  {
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Master. Richard F Becker",
+    "Sex": "male",
+    "Age": 1,
+    "Siblings/Spouses Aboard": 2,
+    "Parents/Children Aboard": 1,
+    "Fare": 39
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Luise Gretchen Kink-Heilmann",
+    "Sex": "female",
+    "Age": 4,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 2,
+    "Fare": 22.025
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. Hugh Roscoe Rood",
+    "Sex": "male",
+    "Age": 39,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 50
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Mrs. Thomas (Johanna Godfrey) O'Brien",
+    "Sex": "female",
+    "Age": 26,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 15.5
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Mr. Charles Hallace Romaine",
+    "Sex": "male",
+    "Age": 45,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 26.55
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. John Bourke",
+    "Sex": "male",
+    "Age": 40,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 1,
+    "Fare": 15.5
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Stjepan Turcin",
+    "Sex": "male",
+    "Age": 36,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.8958
+  },
+  {
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Mrs. (Rosa) Pinsky",
+    "Sex": "female",
+    "Age": 32,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 13
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. William Carbines",
+    "Sex": "male",
+    "Age": 19,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 13
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Carla Christine Nielsine Andersen-Jensen",
+    "Sex": "female",
+    "Age": 19,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.8542
+  },
+  {
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Master. Michel M Navratil",
+    "Sex": "male",
+    "Age": 3,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 1,
+    "Fare": 26
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Mrs. James Joseph (Margaret Tobin) Brown",
+    "Sex": "female",
+    "Age": 44,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 27.7208
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Miss. Elise Lurette",
+    "Sex": "female",
+    "Age": 58,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 146.5208
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Robert Mernagh",
+    "Sex": "male",
+    "Age": 28,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.75
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Karl Siegwart Andreas Olsen",
+    "Sex": "male",
+    "Age": 42,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 1,
+    "Fare": 8.4042
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Margaret Madigan",
+    "Sex": "female",
+    "Age": 21,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.75
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Miss. Henriette Yrois",
+    "Sex": "female",
+    "Age": 24,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 13
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Nestor Cyriel Vande Walle",
+    "Sex": "male",
+    "Age": 28,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 9.5
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Frederick Sage",
+    "Sex": "male",
+    "Age": 17,
+    "Siblings/Spouses Aboard": 8,
+    "Parents/Children Aboard": 2,
+    "Fare": 69.55
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Jakob Alfred Johanson",
+    "Sex": "male",
+    "Age": 34,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 6.4958
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Gerious Youseff",
+    "Sex": "male",
+    "Age": 45.5,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.225
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Mr. Gurshon Cohen",
+    "Sex": "male",
+    "Age": 18,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 8.05
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Miss. Telma Matilda Strom",
+    "Sex": "female",
+    "Age": 2,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 1,
+    "Fare": 10.4625
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Karl Alfred Backstrom",
+    "Sex": "male",
+    "Age": 32,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 15.85
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Mr. Nassef Cassem Albimona",
+    "Sex": "male",
+    "Age": 26,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 18.7875
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Helen Carr",
+    "Sex": "female",
+    "Age": 16,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.75
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Mr. Henry Blank",
+    "Sex": "male",
+    "Age": 40,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 31
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Ahmed Ali",
+    "Sex": "male",
+    "Age": 24,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.05
+  },
+  {
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Miss. Clear Annie Cameron",
+    "Sex": "female",
+    "Age": 35,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 21
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. John Henry Perkin",
+    "Sex": "male",
+    "Age": 22,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.25
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. Hans Kristensen Givard",
+    "Sex": "male",
+    "Age": 30,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 13
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Philip Kiernan",
+    "Sex": "male",
+    "Age": 22,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.75
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Miss. Madeleine Newell",
+    "Sex": "female",
+    "Age": 31,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 113.275
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Eliina Honkanen",
+    "Sex": "female",
+    "Age": 27,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.925
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. Sidney Samuel Jacobsohn",
+    "Sex": "male",
+    "Age": 42,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 27
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Miss. Albina Bazzani",
+    "Sex": "female",
+    "Age": 32,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 76.2917
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. Walter Harris",
+    "Sex": "male",
+    "Age": 30,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 10.5
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Mr. Victor Francis Sunderland",
+    "Sex": "male",
+    "Age": 16,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 8.05
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. James H Bracken",
+    "Sex": "male",
+    "Age": 27,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 13
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. George Henry Green",
+    "Sex": "male",
+    "Age": 51,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 8.05
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Christo Nenkoff",
+    "Sex": "male",
+    "Age": 22,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.8958
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Mr. Frederick Maxfield Hoyt",
+    "Sex": "male",
+    "Age": 38,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 90
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Karl Ivar Sven Berglund",
+    "Sex": "male",
+    "Age": 22,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 9.35
+  },
+  {
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Mr. William John Mellors",
+    "Sex": "male",
+    "Age": 19,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 10.5
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. John Hall Lovell",
+    "Sex": "male",
+    "Age": 20.5,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.25
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. Arne Jonas Fahlstrom",
+    "Sex": "male",
+    "Age": 18,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 13
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Miss. Mathilde Lefebre",
+    "Sex": "female",
+    "Age": 12,
+    "Siblings/Spouses Aboard": 3,
+    "Parents/Children Aboard": 1,
+    "Fare": 25.4667
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Mrs. Henry Birkhardt (Irene Wallach) Harris",
+    "Sex": "female",
+    "Age": 35,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 83.475
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Bengt Edvin Larsson",
+    "Sex": "male",
+    "Age": 29,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.775
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. Ernst Adolf Sjostedt",
+    "Sex": "male",
+    "Age": 59,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 13.5
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Lillian Gertrud Asplund",
+    "Sex": "female",
+    "Age": 5,
+    "Siblings/Spouses Aboard": 4,
+    "Parents/Children Aboard": 2,
+    "Fare": 31.3875
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. Robert William Norman Leyson",
+    "Sex": "male",
+    "Age": 24,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 10.5
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Miss. Alice Phoebe Harknett",
+    "Sex": "female",
+    "Age": 21,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.55
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. Stephen Hold",
+    "Sex": "male",
+    "Age": 44,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 26
+  },
+  {
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Miss. Marjorie Collyer",
+    "Sex": "female",
+    "Age": 8,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 2,
+    "Fare": 26.25
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. Frederick William Pengelly",
+    "Sex": "male",
+    "Age": 19,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 10.5
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. George Henry Hunt",
+    "Sex": "male",
+    "Age": 33,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 12.275
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Miss. Thamine Zabour",
+    "Sex": "female",
+    "Age": 19,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 14.4542
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Katherine Murphy",
+    "Sex": "female",
+    "Age": 18,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 15.5
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. Reginald Charles Coleridge",
+    "Sex": "male",
+    "Age": 29,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 10.5
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Matti Alexanteri Maenpaa",
+    "Sex": "male",
+    "Age": 22,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.125
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Sleiman Attalah",
+    "Sex": "male",
+    "Age": 30,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.225
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Dr. William Edward Minahan",
+    "Sex": "male",
+    "Age": 44,
+    "Siblings/Spouses Aboard": 2,
+    "Parents/Children Aboard": 0,
+    "Fare": 90
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Miss. Agda Thorilda Viktoria Lindahl",
+    "Sex": "female",
+    "Age": 25,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.775
+  },
+  {
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Mrs. William (Anna) Hamalainen",
+    "Sex": "female",
+    "Age": 24,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 2,
+    "Fare": 14.5
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Mr. Richard Leonard Beckwith",
+    "Sex": "male",
+    "Age": 37,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 1,
+    "Fare": 52.5542
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Rev. Ernest Courtenay Carter",
+    "Sex": "male",
+    "Age": 54,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 26
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. James George Reed",
+    "Sex": "male",
+    "Age": 18,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.25
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mrs. Wilhelm (Elna Matilda Persson) Strom",
+    "Sex": "female",
+    "Age": 29,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 1,
+    "Fare": 10.4625
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. William Thomas Stead",
+    "Sex": "male",
+    "Age": 62,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 26.55
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. William Arthur Lobb",
+    "Sex": "male",
+    "Age": 30,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 16.1
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mrs. Viktor (Helena Wilhelmina) Rosblom",
+    "Sex": "female",
+    "Age": 41,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 2,
+    "Fare": 20.2125
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Mrs. Darwis (Hanne Youssef Razi) Touma",
+    "Sex": "female",
+    "Age": 29,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 2,
+    "Fare": 15.2458
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Mrs. Gertrude Maybelle Thorne",
+    "Sex": "female",
+    "Age": 38,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 79.2
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Miss. Gladys Cherry",
+    "Sex": "female",
+    "Age": 30,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 86.5
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Miss. Anna Ward",
+    "Sex": "female",
+    "Age": 35,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 512.3292
+  },
+  {
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Mrs. (Lutie Davis) Parrish",
+    "Sex": "female",
+    "Age": 50,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 1,
+    "Fare": 26
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Master. Edvin Rojj Felix Asplund",
+    "Sex": "male",
+    "Age": 3,
+    "Siblings/Spouses Aboard": 4,
+    "Parents/Children Aboard": 2,
+    "Fare": 31.3875
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. Emil Taussig",
+    "Sex": "male",
+    "Age": 52,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 1,
+    "Fare": 79.65
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. William Harrison",
+    "Sex": "male",
+    "Age": 40,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 0
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Miss. Delia Henry",
+    "Sex": "female",
+    "Age": 21,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.75
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. David Reeves",
+    "Sex": "male",
+    "Age": 36,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 10.5
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Ernesti Arvid Panula",
+    "Sex": "male",
+    "Age": 16,
+    "Siblings/Spouses Aboard": 4,
+    "Parents/Children Aboard": 1,
+    "Fare": 39.6875
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Mr. Ernst Ulrik Persson",
+    "Sex": "male",
+    "Age": 25,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.775
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Mrs. William Thompson (Edith Junkins) Graham",
+    "Sex": "female",
+    "Age": 58,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 1,
+    "Fare": 153.4625
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Miss. Amelia Bissette",
+    "Sex": "female",
+    "Age": 35,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 135.6333
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. Alexander Cairns",
+    "Sex": "male",
+    "Age": 28,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 31
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Mr. William Henry Tornquist",
+    "Sex": "male",
+    "Age": 25,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 0
+  },
+  {
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Mrs. (Elizabeth Anne Maidment) Mellinger",
+    "Sex": "female",
+    "Age": 41,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 1,
+    "Fare": 19.5
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. Charles H Natsch",
+    "Sex": "male",
+    "Age": 37,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 1,
+    "Fare": 29.7
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Hanora Healy",
+    "Sex": "female",
+    "Age": 33,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.75
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Miss. Kornelia Theodosia Andrews",
+    "Sex": "female",
+    "Age": 63,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 77.9583
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Miss. Augusta Charlotta Lindblom",
+    "Sex": "female",
+    "Age": 45,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.75
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. Francis Parkes",
+    "Sex": "male",
+    "Age": 21,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 0
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Master. Eric Rice",
+    "Sex": "male",
+    "Age": 7,
+    "Siblings/Spouses Aboard": 4,
+    "Parents/Children Aboard": 1,
+    "Fare": 29.125
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Mrs. Stanton (Rosa Hunt) Abbott",
+    "Sex": "female",
+    "Age": 35,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 1,
+    "Fare": 20.25
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Frank Duane",
+    "Sex": "male",
+    "Age": 65,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.75
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Nils Johan Goransson Olsson",
+    "Sex": "male",
+    "Age": 28,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.8542
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Alfons de Pelsmaeker",
+    "Sex": "male",
+    "Age": 16,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 9.5
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Mr. Edward Arthur Dorking",
+    "Sex": "male",
+    "Age": 19,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 8.05
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. Richard William Smith",
+    "Sex": "male",
+    "Age": 57,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 26
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Ivan Stankovic",
+    "Sex": "male",
+    "Age": 33,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 8.6625
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Mr. Theodore de Mulder",
+    "Sex": "male",
+    "Age": 30,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 9.5
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Penko Naidenoff",
+    "Sex": "male",
+    "Age": 22,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.8958
+  },
+  {
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Mr. Masabumi Hosono",
+    "Sex": "male",
+    "Age": 42,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 13
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Kate Connolly",
+    "Sex": "female",
+    "Age": 22,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.75
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Miss. Ellen Barber",
+    "Sex": "female",
+    "Age": 26,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 78.85
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Mrs. Dickinson H (Helen Walton) Bishop",
+    "Sex": "female",
+    "Age": 19,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 0,
+    "Fare": 91.0792
+  },
+  {
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Mr. Rene Jacques Levy",
+    "Sex": "male",
+    "Age": 36,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 12.875
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Miss. Aloisia Haas",
+    "Sex": "female",
+    "Age": 24,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 8.85
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Ivan Mineff",
+    "Sex": "male",
+    "Age": 24,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.8958
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Mr. Ervin G Lewy",
+    "Sex": "male",
+    "Age": 30,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 27.7208
+  },
+  {
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Mr. Mansour Hanna",
+    "Sex": "male",
+    "Age": 23.5,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.2292
+  },
+  {
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Miss. Helen Loraine Allison",
+    "Sex": "female",
+    "Age": 2,
+    "Siblings/Spouses Aboard": 1,
+    "Parents/Children Aboard": 2,
+    "Fare": 151.55
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Mr. Adolphe Saalfeld",
+    "Sex": "male",
+    "Age": 47,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 30.5
+  },
+  {
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Mrs. James (Helene DeLaudeniere Chaput) Baxter",
+    "Sex": "female",
+    "Age": 50,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 1,
+    "Fare": 247.5208
+  },
+  {
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Miss. Anna Katherine Kelly",
+    "Sex": "female",
+    "Age": 20,
+    "Siblings/Spouses Aboard": 0,
+    "Parents/Children Aboard": 0,
+    "Fare": 7.75
+  }
+]
